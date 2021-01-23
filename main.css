@@ -1,0 +1,70 @@
+     
+        h1 {font-size: 30px;
+            color: floralwhite;
+          }
+        h2 {
+            color: floralwhite;
+          font-size:1.5em;
+        }  
+        
+        body {
+            background-color: Chocolate;
+            color: floralwhite;
+            font-family: Bradley Hand;
+            font-size: 1em;
+        }
+
+        ul {color: floralwhite;
+            font-size: 1.2em
+        }
+
+        .big {font-size:1.2em}
+        
+        a {
+            text-decoration: none;
+        }
+          p {line-height: 1.5em;
+            text-align: center;
+          }
+
+#donate {color: floralwhite;
+         font-size: 1.5em;
+         text-align: center;
+         font-weight:bold
+        }
+
+#left_sidebar {float:left;
+         margin: 5px;
+         width:60%;
+         padding:5px
+            }
+
+#lower_part {padding:10px;
+             margin:10px;
+             float:left;
+             width:50%
+            }
+
+#sidebar {background-color: CadetBlue;
+  border: 1px;
+  position:absolute;
+  top: 40px;
+  right:30px;
+  width:30%;
+  padding:5px;
+            }
+
+#book_pic {width: 100px;
+           float:left;
+           margin: 13px;
+           padding: 15px;
+            }
+a:hover, a:active, a:focus { 
+            background-color: rgb(234, 39, 107);
+            color:floralwhite;
+            } 
+.samecolor {color:floralwhite;
+}
+ 
+
+
